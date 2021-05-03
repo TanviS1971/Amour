@@ -1,0 +1,17 @@
+
+.para2{ 
+    color:#2e2731;
+font-family: 'Alfa Slab One'; } 
+#para3{ 
+    width: 100%;
+    border: 5px dashed #808080; 
+    padding: 60px; 
+    background:#D8BFD8; 
+    background-clip: padding-box ; } 
+.para1{
+    color:#341c3d;
+    font-family: 'Alfa Slab One'; } 
+    
+.btn1{
+    background-image: linear-gradient(to right,#c6b5c9,#653f79);
+    border: #653f79;}
